@@ -68,5 +68,5 @@ course/79/index.html<!DOCTYPE html>
 		<p><b><abbr title="Paco">Documented from</abbr></b> Paco, Hope; Walther, Ben (2008). Web Security Testing Cookbook. <b><abbr title="https://en.wikipedia.org/wiki/Cross-site_scripting">via Wikipedia</abbr></b>.</p>
 	</div>
 
-	<h3>Persistent (Stored)</h3>
+<h3>Persistent (Stored)</h3>
 Learn how to Exploiting Vulnerability, this Wiki will gave you information about Vulnerability Software  and learn to exploit it then patch it.fi, look at the sidebarright  for quick travel.Cross Site Scripting (CWE 79)Common Vulnerability included in Practi Vulngrammarly.comkontoljadi dundntar mmk nya w yg pakeh3h3Learn how to Exploiting Vulnerability, this Wiki will gave you information about  Software Vulnerability and learn to exploit it then fix it, look at the right sidebar for quick travelHighlighted  Cour (c) 2019 Exploiter  Copyright, All Right Reserved.Cross Site Scripting (CWE 79)
