@@ -5,9 +5,9 @@
  * @author Fray117
  */
 
-$comment['name'] = htmlspecialchars($_POST['name']);
-$comment['text'] = htmlspecialchars($_POST['comment']);
-$comment['post'] = htmlspecialchars($_POST['article']);
+$comment['name'] = $_POST['name'];
+$comment['text'] = $_POST['comment'];
+$comment['post'] = $_POST['article'];
 
 $object = json_decode(file_get_contents('comment.json'), true);
 
